@@ -1,17 +1,11 @@
-### Hi there 👋
+### Heyo, heres the stuff 👋
 
 ### Languages 📚
 
 - Java ☕
 - Dart
-- C#
-- C++
-- Lua
-- Python
-- PHP
-- SQL
-- HTML/CSS
-- JS
+- C# - C++ - Lua - Python
+- PHP - SQL - HTML/CSS - JS
 - Enforce Script (DayZ Modding)
 
 ### Frameworks / Skills / Platforms 🌉
@@ -27,11 +21,10 @@
 ### Editors / IDEs / Tools 🔨
 - Kubuntu 🐧
 - Jetbrains Toolbox Suite 🧰
-- VS Code 👓
-- Visual Studio 🥽
+- VS Code / Studio 👓
 - Terminus 🖥
 - Putty / SSH 📂
-- WinScp or Filezilla 📁
+- WinScp / Filezilla 📁
 - Spotify 🎵
 - `goto other;`
 
@@ -47,3 +40,8 @@ other:
 - When: 1st Year 🎆
 - What: Computer Engineering 🔌
 - Specialization: Software Engineering 💻
+
+### Repos 📓
+
+A bunch of java stuff that is pretty useless, EXCEPT FOR:
+The ***Corsair and Aura SDK*** ones, those are pretty useful and cool.
