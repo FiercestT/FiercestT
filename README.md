@@ -1,16 +1,49 @@
 ### Hi there 👋
 
-<!--
-**FiercestT/FiercestT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages 📚
 
-Here are some ideas to get you started:
+- Java ☕
+- Dart
+- C#
+- C++
+- Lua
+- Python
+- PHP
+- SQL
+- HTML/CSS
+- JS
+- Enforce Script (DayZ Modding)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks / Skills / Platforms 🌉
+- Linux / Windows 🐧
+- MySQL and SQL 🗃
+- Flutter 🐦
+- Android 📱
+- JavaFX / Swing ☕
+- DevOps / Website / Server Setup 🌐
+- ML and DL knowledge ✖
+- `goto other`
+
+### Editors / IDEs / Tools 🔨
+- Kubuntu 🐧
+- Jetbrains Toolbox Suite 🧰
+- VS Code 👓
+- Visual Studio 🥽
+- Terminus 🖥
+- Putty / SSH 📂
+- WinScp or Filezilla 📁
+- Spotify 🎵
+- `goto other;`
+
+```cpp
+//who uses goto lol
+other: 
+  cout << A bunch of other stuff i forgot;
+```
+
+### 📗 Study
+
+- Where: Ryerson University 🍁
+- When: 1st Year 🎆
+- What: Computer Engineering 🔌
+- Specialization: Software Engineering 💻
