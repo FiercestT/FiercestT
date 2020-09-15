@@ -1,7 +1,7 @@
-### Heyo, heres the stuff 👋
+### Heyo, heres me 👋
 
 ### Languages 📚
-
+Self taught btw
 - Java ☕
 - Dart
 - C# - C++ - Lua - Python
