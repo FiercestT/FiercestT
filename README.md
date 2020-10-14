@@ -16,7 +16,7 @@ Self taught btw
 - JavaFX / Swing ☕
 - DevOps / Website / Server Setup 🌐
 - ML and DL knowledge ✖
-- `goto other`
+- `goto other;`
 
 ### Editors / IDEs / Tools 🔨
 - Kubuntu 🐧
@@ -31,7 +31,7 @@ Self taught btw
 ```cpp
 //who uses goto lol
 other: 
-  cout << A bunch of other stuff i forgot;
+  cout << "A bunch of other stuff i forgot";
 ```
 
 ### 📗 Study
