@@ -1,7 +1,7 @@
 ### Heyo, heres me 👋
 
 ### Languages 📚
-Self taught btw
+Self taught
 - Java ☕
 - Dart
 - C# - C++ - Lua - Python
@@ -43,5 +43,4 @@ other:
 
 ### Repos 📓
 
-A bunch of java stuff that is pretty useless, EXCEPT FOR:
 The ***Corsair and Aura SDK*** ones, those are pretty useful and cool.
