@@ -10,11 +10,11 @@ Self taught
 
 ### Frameworks / Skills / Platforms 🌉
 - Linux / Windows 🐧
-- MySQL and SQL 🗃
+- MySQL and SQL, Redis, MongoDB 🗃
 - Flutter 🐦
 - Android 📱
 - JavaFX / Swing ☕
-- DevOps / Website / Server Setup 🌐
+- DevOps / IIS/Windows Server 🌐
 - ML and DL knowledge ✖
 - `goto other;`
 
@@ -40,7 +40,3 @@ other:
 - When: 1st Year 🎆
 - What: Computer Engineering 🔌
 - Specialization: Software Engineering 💻
-
-### Repos 📓
-
-The ***Corsair and Aura SDK*** ones, those are pretty useful and cool.
