@@ -16,6 +16,8 @@ Self taught
 - JavaFX / Swing ☕
 - DevOps / IIS/Windows Server 🌐
 - ML and DL knowledge ✖
+- IoT, Arduino, Embedded Systems
+- RSA Cryptography, OAuth2, MSAL, Google, etc.
 - `goto other;`
 
 ### Editors / IDEs / Tools 🔨
