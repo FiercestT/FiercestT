@@ -37,3 +37,5 @@ Self taught
 other: 
   cout << "A bunch of other stuff i probably forgot";
 ```
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFiercestT&count_bg=%235C00FF&title_bg=%23FF7D00&icon=cliqz.svg&icon_color=%235C00FF&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
