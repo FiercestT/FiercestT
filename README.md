@@ -1,4 +1,4 @@
-### Heyo, heres me 👋
+### Heyo 👋
 
 ### I'm a 1st year Full Stack Software Engineer 💻
 
