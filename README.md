@@ -1,5 +1,7 @@
 ### Heyo, heres me 👋
 
+### I'm a 1st year Full Stack Software Engineer 💻
+
 ### Languages 📚
 Self taught
 - Java ☕
@@ -33,12 +35,5 @@ Self taught
 ```cpp
 //who uses goto lol
 other: 
-  cout << "A bunch of other stuff i forgot";
+  cout << "A bunch of other stuff i probably forgot";
 ```
-
-### 📗 Study
-
-- Where: Ryerson University 🍁
-- When: 1st Year 🎆
-- What: Computer Engineering 🔌
-- Specialization: Software Engineering 💻
