@@ -6,8 +6,8 @@
 Self taught
 - Java ☕
 - Dart
-- C# - C++ - Lua - Python
-- PHP - SQL - HTML/CSS - JS
+- C# - C - C++ - Lua - Python
+- PHP - SQL - HTML/CSS - JS - TS
 - Enforce Script (DayZ Modding)
 
 ### Frameworks / Skills / Platforms 🌉
