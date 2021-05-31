@@ -1,6 +1,6 @@
 ### Heyo 👋
 
-### I'm a 1st year Full Stack Software Engineer 💻
+### I'm a 2nd year Full Stack Software Engineer 💻
 
 ### Languages 📚
 Self taught
