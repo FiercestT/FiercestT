@@ -6,24 +6,24 @@
 Self taught
 - Java ☕
 - Dart
-- C# - C - C++ - Lua - Python
-- PHP - SQL - HTML/CSS - JS - TS
+- C++ - C - TS - JS - Python
+- C# - Lua - PHP - SQL - HTML/CSS 
 - Enforce Script (DayZ Modding)
 
 ### Frameworks / Skills / Platforms 🌉
-- Linux / Windows 🐧
-- MySQL and SQL, Redis, MongoDB 🗃
+- Windows / Linux 🐧
+- (My)SQL, Redis, MongoDB 🗃
 - Flutter 🐦
 - Android 📱
 - JavaFX / Swing ☕
-- DevOps / IIS/Windows Server 🌐
+- DevOps / IIS / Windows Server 🌐
 - ML and DL knowledge ✖
 - IoT, Arduino, Embedded Systems
-- RSA Cryptography, OAuth2, MSAL, Google, etc.
+- RSA Cryptography, OAuth2, MSAL, Azure, etc.
 - `goto other;`
 
 ### Editors / IDEs / Tools 🔨
-- Kubuntu 🐧
+- Windows + Kubuntu 🐧
 - Jetbrains Toolbox Suite 🧰
 - VS Code / Studio 👓
 - Terminus 🖥
