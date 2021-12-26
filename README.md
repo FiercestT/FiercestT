@@ -4,10 +4,10 @@
 
 ### Languages 📚
 <details>
-  <summary>Self taught</summary>
+  <summary>Self taught - (Click to expand)</summary>
   
     - Java ☕
-    - Dart
+    - Dart 🐦
     - C++ - C - TS - JS - Python
     - C# - Lua - PHP - SQL - HTML/CSS 
     - Enforce Script (DayZ Modding)
@@ -17,16 +17,18 @@
 <details>
   <summary>(Click to expand)</summary>
   
-    - Windows / Linux 🐧
-    - (My)SQL, Redis, MongoDB 🗃
+    - Amazing Googler 😎
+    - Windows / Linux (Server Only) 🐧
+    - (My)SQL, Redis 🗃
     - Flutter 🐦
-    - Android 📱
+    - Native Android 📱
     - JavaFX / Swing ☕
-    - DevOps / IIS / Windows Server 🌐
+    - IIS / Windows Server 🌐
     - ML and DL knowledge ✖
-    - IoT, Arduino, Embedded Systems
-    - RSA Cryptography, OAuth2, MSAL, Azure, etc.
-    - `goto other;`
+    - IoT, Arduino, Embedded Systems, Home Automation
+    - RSA Cryptography, OAuth2, MSAL, Azure, etc. 🔒
+    - PCB / Circuit Design / Electronics and Drone Hobbyist 🛸
+    - `other()`
 </details>
  
 ### Editors / IDEs / Tools 🔨
@@ -35,18 +37,18 @@
   
     - Windows + Kubuntu 🐧
     - Jetbrains Toolbox Suite 🧰
-    - VS Code / Studio 👓
-    - Terminus 🖥
+    - VS Code + Studio 👓
+    - Terminus(Tabby) 🖥
     - Putty / SSH 📂
     - WinScp / Filezilla 📁
     - Spotify 🎵
-    - `goto other;`
+    - `other()`
 </details>
 
-```cpp
-//who uses goto lol
-other: 
-  std::cout << "A bunch of other stuff i probably forgot";
+```c
+char* other() {
+  return "A bunch of other cool stuff i probably forgot";
+}
 ```
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFiercestT&count_bg=%235C00FF&title_bg=%23FF7D00&icon=cliqz.svg&icon_color=%235C00FF&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
