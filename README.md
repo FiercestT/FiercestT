@@ -28,7 +28,7 @@
     - IoT, Arduino, Embedded Systems, Home Automation
     - RSA Cryptography, OAuth2, MSAL, Azure, etc. 🔒
     - PCB / Circuit Design / Electronics and Drone Hobbyist 🛸
-    - `other()`
+    other()
 </details>
  
 ### Editors / IDEs / Tools 🔨
@@ -42,7 +42,7 @@
     - Putty / SSH 📂
     - WinScp / Filezilla 📁
     - Spotify 🎵
-    - `other()`
+    other()
 </details>
 
 ```c
