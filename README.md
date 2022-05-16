@@ -30,7 +30,7 @@
     - RSA Cryptography, OAuth2. 🔒
     - PCB / Circuit Design / Electronics and Drone Hobbyist 🛸
     - Altera FPGA (Xilinx Pending) with Modelsim (SV)
-  other()
+    - other()
 </details>
  
 ### Editors / Tools 🔨
