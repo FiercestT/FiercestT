@@ -2,6 +2,8 @@
 
 ### I'm a 3rd year Full Stack Software Engineer 💻
 
+I've worked on everything from Frontend to Backend, Flip Flips, PCB Traces and Electrons.
+
 ### Languages 📚
 <details>
   <summary>Self taught - (Click to expand)</summary>
@@ -24,12 +26,14 @@
     - Flutter 🐦
     - Native Android 📱
     - JavaFX / Swing ☕
+    - Altera FPGA (Xilinx Pending) with Modelsim (SV)
     - IIS / Windows Server 🌐
     - Rough ML and DL knowledge ✖
     - Arduino, IoT, Embedded Systems, Home Automation
     - RSA Cryptography, OAuth2. 🔒
     - PCB / Circuit Design / Electronics and Drone Hobbyist 🛸
-    - Altera FPGA (Xilinx Pending) with Modelsim (SV)
+    - Worked a bit with PBS (Portable Batch Server)
+    - GitHub Enterprise Admin
     - other()
 </details>
  
