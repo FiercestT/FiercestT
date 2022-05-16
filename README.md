@@ -1,6 +1,6 @@
 ### Heyo 👋
 
-### I'm a 2nd year Full Stack Software Engineer 💻
+### I'm a 3rd year Full Stack Software Engineer 💻
 
 ### Languages 📚
 <details>
@@ -8,12 +8,13 @@
   
     - Java ☕
     - Dart 🐦
-    - C++ - C - TS - JS - Python
-    - C# - Lua - PHP - SQL - HTML/CSS 
-    - Enforce Script (DayZ Modding)
+    - SystemVerilog (FPGA) [Learning]
+    - Rust [Learning]
+    - C++, C, TS/JS, Python, C#, Lua, PHP, SQL, HTML/CSS
+    - Enforce Script (DayZ Modding/Enfusion Engine)
 </details>
 
-### Frameworks / Skills / Platforms 🌉
+### Buzzwords I've Worked With (In no particular order) 🌉
 <details>
   <summary>(Click to expand)</summary>
   
@@ -24,24 +25,24 @@
     - Native Android 📱
     - JavaFX / Swing ☕
     - IIS / Windows Server 🌐
-    - ML and DL knowledge ✖
-    - IoT, Arduino, Embedded Systems, Home Automation
-    - RSA Cryptography, OAuth2, MSAL, Azure, etc. 🔒
+    - Rough ML and DL knowledge ✖
+    - Arduino, IoT, Embedded Systems, Home Automation
+    - RSA Cryptography, OAuth2. 🔒
     - PCB / Circuit Design / Electronics and Drone Hobbyist 🛸
-    other()
+    - Altera FPGA (Xilinx Pending) with Modelsim (SV)
+  other()
 </details>
  
-### Editors / IDEs / Tools 🔨
+### Editors / Tools 🔨
 <details>
   <summary>(Click to expand)</summary>
   
-    - Windows + Kubuntu 🐧
-    - Jetbrains Toolbox Suite 🧰
-    - VS Code + Studio 👓
-    - Terminus(Tabby) 🖥
-    - Putty / SSH 📂
-    - WinScp / Filezilla 📁
-    - Spotify 🎵
+    - Windows
+    - Jetbrains Toolbox 🧰
+    - VS Code 👓
+    - Tabby 🖥
+    - WinScp 📁
+    - Spotify + Amazon Music 🎵
     other()
 </details>
 
