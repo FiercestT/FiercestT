@@ -2,7 +2,7 @@
 
 ### I'm a 3rd year Full Stack Software Engineer 💻
 
-I've worked on everything from Frontend to Backend, Flip Flips, PCB Traces and Electrons.
+I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and Electrons.
 
 ### Languages 📚
 <details>
