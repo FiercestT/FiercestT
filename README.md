@@ -34,7 +34,7 @@ I've worked on everything from Frontend to Backend, Flip Flips, PCB Traces and E
     - PCB / Circuit Design / Electronics and Drone Hobbyist 🛸
     - Worked a bit with PBS (Portable Batch Server)
     - GitHub Enterprise Admin
-    - other()
+    other()
 </details>
  
 ### Editors / Tools 🔨
