@@ -10,8 +10,7 @@ I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and E
   
     - Java ☕
     - Dart 🐦
-    - SystemVerilog (FPGA) [Learning]
-    - Rust [Learning]
+    - SystemVerilog for Design and Verification (FPGA) [Learning]
     - C++, C, TS/JS, Python, C#, Lua, PHP, SQL, HTML/CSS
     - Enforce Script (DayZ Modding/Enfusion Engine)
 </details>
@@ -26,7 +25,7 @@ I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and E
     - Flutter 🐦
     - Native Android 📱
     - JavaFX / Swing ☕
-    - Altera FPGA (Xilinx Pending) with Modelsim (SV)
+    - Altera, Xilinx ZYNQ, Lattice ice40 and Modelsim/XSim (SV)
     - IIS / Windows Server 🌐
     - Rough ML and DL knowledge ✖
     - Arduino, IoT, Embedded Systems, Home Automation
