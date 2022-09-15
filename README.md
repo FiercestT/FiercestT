@@ -20,7 +20,7 @@ I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and E
   <summary>(Click to expand)</summary>
   
     - Amazing Googler 😎
-    - Windows / Linux (Server Only) 🐧
+    - Windows / Linux 🐧
     - (My)SQL, Redis 🗃
     - Flutter 🐦
     - Native Android 📱
