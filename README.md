@@ -39,7 +39,7 @@ I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and E
     - Worked a bit with PBS (Portable Batch Server)
     - GitHub Enterprise Admin
   
-    other()
+    other();
 </details>
  
 ### 🔨 Editors / Tools 
@@ -53,7 +53,7 @@ I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and E
     - WinScp 📁
     - Spotify + Amazon Music 🎵
   
-    other()
+    other();
 </details>
 
 ```c
