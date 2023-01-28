@@ -4,7 +4,7 @@
 
 I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and Electrons.
 
-### Languages 📚
+### 📚 Languages 
 <details>
   <summary>Self taught - (Click to expand)</summary>
   
@@ -17,7 +17,7 @@ I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and E
     ❤️ FPGAs and HDLs
 </details>
 
-### Buzzwords I've Worked With (In no particular order) 🌉
+### 🌉 Buzzwords I've Worked With (In no particular order) 
 <details>
   <summary>(Click to expand)</summary>
   
@@ -41,7 +41,7 @@ I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and E
     other()
 </details>
  
-### Editors / Tools 🔨
+### 🔨 Editors / Tools 
 <details>
   <summary>(Click to expand)</summary>
   
