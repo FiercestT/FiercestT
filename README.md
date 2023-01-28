@@ -38,6 +38,7 @@ I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and E
     - RSA Cryptography, OAuth2. 🔒
     - Worked a bit with PBS (Portable Batch Server)
     - GitHub Enterprise Admin
+  
     other()
 </details>
  
@@ -51,6 +52,7 @@ I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and E
     - Tabby 🖥
     - WinScp 📁
     - Spotify + Amazon Music 🎵
+  
     other()
 </details>
 
