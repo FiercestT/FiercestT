@@ -1,6 +1,6 @@
 ### Heyo 👋
 
-### I'm a 3rd year Computer Engineering Student 💻
+### 💻 I'm a 3rd year Computer Engineering Student 
 
 I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and Electrons.
 
