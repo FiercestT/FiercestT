@@ -1,6 +1,6 @@
 ### Heyo 👋
 
-### I'm a 3rd year Full Stack Software Engineer 💻
+### I'm a 3rd year Computer Engineering Student 💻
 
 I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and Electrons.
 
@@ -10,9 +10,11 @@ I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and E
   
     - Java ☕
     - Dart 🐦
-    - SystemVerilog for Design and Verification (FPGA) [Learning]
+    - [System]Verilog and VHDL 🤖
     - C++, C, TS/JS, Python, C#, Lua, PHP, SQL, HTML/CSS
+    - Can write ASM
     - Enforce Script (DayZ Modding/Enfusion Engine)
+    ❤️ FPGAs and HDLs
 </details>
 
 ### Buzzwords I've Worked With (In no particular order) 🌉
@@ -21,16 +23,19 @@ I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and E
   
     - Amazing Googler 😎
     - Windows / Linux 🐧
+  
+    Hardware
+    - Altera, Xilinx ZYNQ, Lattice ice40. Modelsim, XSim
+    - RGB lighting and LED displays
+    - Arduino, Embedded Systems, IoT, Home Automation
+    - PCB / Circuit Design / Electronics and Drone Hobbyist / HiFi Audio Hobbyist 🛸
+  
+    Software
     - (My)SQL, Redis 🗃
-    - Flutter 🐦
-    - Native Android 📱
-    - JavaFX / Swing ☕
-    - Altera, Xilinx ZYNQ, Lattice ice40 and Modelsim/XSim (SV)
+    - Flutter 🐦, Native Android 📱, JavaFX + Swing ☕
     - IIS / Windows Server 🌐
     - Rough ML and DL knowledge ✖
-    - Arduino, IoT, Embedded Systems, Home Automation
     - RSA Cryptography, OAuth2. 🔒
-    - PCB / Circuit Design / Electronics and Drone Hobbyist 🛸
     - Worked a bit with PBS (Portable Batch Server)
     - GitHub Enterprise Admin
     other()
@@ -40,7 +45,7 @@ I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and E
 <details>
   <summary>(Click to expand)</summary>
   
-    - Windows
+    - Windows + Zorin OS
     - Jetbrains Toolbox 🧰
     - VS Code 👓
     - Tabby 🖥
