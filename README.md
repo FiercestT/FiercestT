@@ -4,6 +4,8 @@
 
 I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and Electrons.
 
+**Currently focusing on Analog, RF and PCB design.**
+
 ### 📚 Languages 
 <details>
   <summary>Self taught - (Click to expand)</summary>
@@ -11,7 +13,7 @@ I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and E
     - Java ☕
     - Dart 🐦
     - [System]Verilog and VHDL 🤖
-    - C++, C, TS/JS, Python, C#, Lua, PHP, SQL, HTML/CSS
+    - C, TS/JS, Python, C#, Lua, PHP, SQL, HTML/CSS
     - Can write ASM
     - Enforce Script (DayZ Modding/Enfusion Engine)
     ❤️ FPGAs and HDLs
@@ -25,17 +27,18 @@ I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and E
     - Windows / Linux 🐧
   
     Hardware
-    - Altera, Xilinx ZYNQ, Lattice ice40. Modelsim, XSim
+    - FPGAs Altera, Xilinx ZYNQ, Lattice (Modelsim, XSim, Vendor Tools)
     - RGB lighting and LED displays
     - Arduino, Embedded Systems, IoT, Home Automation
-    - PCB / Circuit Design / Electronics and Drone Hobbyist / HiFi Audio Hobbyist 🛸
+    - PCB / Circuit Design (Altium, KiCad) 
+    - Electronics and Drone Hobbyist / HiFi Audio Hobbyist 🛸
   
     Software
     - (My)SQL, Redis 🗃
     - Flutter 🐦, Native Android 📱, JavaFX + Swing ☕
     - IIS / Windows Server 🌐
     - Rough ML and DL knowledge ✖
-    - RSA Cryptography, OAuth2. 🔒
+    - Cryptography 🔒
     - Worked a bit with PBS (Portable Batch Server)
     - GitHub Enterprise Admin
   
