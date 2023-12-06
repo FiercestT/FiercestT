@@ -4,7 +4,7 @@
 
 I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and Electrons.
 
-**Currently focusing on Analog, RF and PCB design.**
+**🔥Currently focusing on RF & PCB design, Signal & Power Integrity.**
 
 ### 📚 Languages 
 <details>
@@ -13,9 +13,10 @@ I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and E
     - Java ☕
     - Dart 🐦
     - [System]Verilog and VHDL 🤖
-    - C, TS/JS, Python, C#, Lua, PHP, SQL, HTML/CSS
-    - Can write ASM
-    - Enforce Script (DayZ Modding/Enfusion Engine)
+    - C
+    - TS/JS, Python, C#, Lua, PHP, SQL, HTML/CSS
+    - Can write ASM (Arm, Mips, Risc-V, HCS12)
+    - Enforce Script (Enfusion Engine)
     ❤️ FPGAs and HDLs
 </details>
 
@@ -27,18 +28,22 @@ I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and E
     - Windows / Linux 🐧
   
     Hardware
-    - FPGAs Altera, Xilinx ZYNQ, Lattice (Modelsim, XSim, Vendor Tools)
-    - RGB lighting and LED displays
-    - Arduino, Embedded Systems, IoT, Home Automation
-    - PCB / Circuit Design (Altium, KiCad) 
+    - FPGAs: Altera (Intel), Xilinx Zynq, Lattice (Modelsim, XSim, etc) 🔧
+    - ARM, AVR MCUs
+    - PCB Schemtaic, Layout & Design / Signal & Power Integrity (Altium, KiCad, EasyEda) 📶
+    - RF PCB layout / Theory / Semtech LoRa + LR-FHSS Transceivers 📡
+    - Embedded System Design / Component Selection 🔨
+    - Protocol Specification
+    - RGB lighting & LED displays
+    - IoT, Smart Home / Automation
     - Electronics and Drone Hobbyist / HiFi Audio Hobbyist 🛸
   
     Software
     - (My)SQL, Redis 🗃
     - Flutter 🐦, Native Android 📱, JavaFX + Swing ☕
-    - IIS / Windows Server 🌐
-    - Rough ML and DL knowledge ✖
     - Cryptography 🔒
+    - NGINX / IIS / Windows Server 🌐
+    - Rough ML and DL knowledge ✖
     - Worked a bit with PBS (Portable Batch Server)
     - GitHub Enterprise Admin
   
@@ -52,15 +57,13 @@ I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and E
     - Windows + Zorin OS
     - Jetbrains Toolbox 🧰
     - VS Code 👓
-    - Tabby 🖥
-    - WinScp 📁
     - Spotify + Amazon Music 🎵
   
     other();
 </details>
 
 ```c
-char* other() {
+const char* other() {
   return "A bunch of other cool stuff i probably forgot";
 }
 ```
