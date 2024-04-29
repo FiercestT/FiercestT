@@ -1,6 +1,6 @@
 ### Heyo 👋
 
-### 💻 I'm a 4th year Computer Engineering Student 
+### 💻 I'm a Masters student in Electrical & Computer Engineering 
 
 I've worked on everything from Frontend to Backend, Flip Flops, PCB Traces and Electrons.
 
